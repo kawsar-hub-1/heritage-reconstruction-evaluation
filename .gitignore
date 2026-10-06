@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+.ipynb_checkpoints/
+.DS_Store
+
+# Research data and generated outputs
+/data/archival/
+/data/generated_baseline/
+/data/*.xlsx
+/results/*
+!/results/README.md
+
+# Large model/checkpoint files
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras

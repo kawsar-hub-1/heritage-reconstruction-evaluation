@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite the repository and the associated HARF research."
+title: "Heritage Reconstruction Evaluation"
+type: software
+authors:
+  - family-names: Arzomand
+    given-names: Kawsar
+version: 0.1.0
+date-released: 2026-10-06
+abstract: "Python and Jupyter research software for image-based, expert-informed and multi-criteria evaluation of AI-assisted cultural heritage reconstructions."

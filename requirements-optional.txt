@@ -1,0 +1,3 @@
+# Optional perceptual metrics used in notebook 02.
+torch>=2.2
+piq>=0.8
